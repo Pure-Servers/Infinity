@@ -9,6 +9,12 @@
           "custom_model_data": 1
         },
         "model": "pure:item/trophies/beta3_trophy"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "pure:item/trophies/dragonslayer2022_trophy"
       }
     ]
 }
