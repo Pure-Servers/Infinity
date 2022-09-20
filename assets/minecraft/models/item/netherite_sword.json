@@ -21,6 +21,12 @@
           "custom_model_data": 3
         },
         "model": "pure:item/swords/ice_sword"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "pure:item/swords/rose_sword"
       }
     ]
 }
