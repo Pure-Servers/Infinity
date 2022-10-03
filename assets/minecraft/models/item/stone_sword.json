@@ -39,6 +39,12 @@
           "custom_model_data": 6
         },
         "model": "pure:item/swords/deep_dark_scythe"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 7
+        },
+        "model": "pure:item/swords/dragons_staff"
       }
     ]
 }
