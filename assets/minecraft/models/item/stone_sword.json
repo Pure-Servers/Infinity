@@ -33,6 +33,12 @@
           "custom_model_data": 5
         },
         "model": "pure:item/swords/ghost_sword"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 6
+        },
+        "model": "pure:item/swords/deep_dark_scythe"
       }
     ]
 }
