@@ -1,14 +1,14 @@
 {
     "parent": "item/handheld",
     "textures": {
-      "layer0": "item/stone_sword"
+      "layer0": "item/diamond_sword"
     },
     "overrides": [
       {
         "predicate": {
           "custom_model_data": 1
         },
-        "model": "pure:item/swords/demons_sword"
+        "model": "pure:item/swords/deep_dark_scythe"
       }
     ]
 }
