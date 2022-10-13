@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/armor",
+  "textures": {
+    "layer0": "pure:armor/helmet/smiley_face"
+  }
+}

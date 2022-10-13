@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/barrier"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "pure:item/trophies/beta3_trophy"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "pure:item/trophies/dragonslayer2022_trophy"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 3
+        },
+        "model": "pure:item/trophies/1year_trophy"
+      }
+    ]
+}

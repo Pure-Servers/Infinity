@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/shulker_shell"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "pure:item/staffs/dragons_staff"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "pure:item/staffs/withers_staff"
+      }
+    ]
+}

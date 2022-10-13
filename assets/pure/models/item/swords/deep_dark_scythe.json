@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "pure:item/swords/deep_dark_scythe"
+  }
+}
