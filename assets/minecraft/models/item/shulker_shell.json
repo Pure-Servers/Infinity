@@ -15,6 +15,18 @@
           "custom_model_data": 2
         },
         "model": "pure:item/staffs/withers_staff"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 3
+        },
+        "model": "pure:item/ui/arrow_left"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "pure:item/ui/arrow_right"
       }
     ]
 }
