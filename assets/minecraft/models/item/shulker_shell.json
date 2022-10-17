@@ -27,6 +27,24 @@
           "custom_model_data": 4
         },
         "model": "pure:item/ui/arrow_right"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5
+        },
+        "model": "pure:hat/aura_hat"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 6
+        },
+        "model": "pure:hat/tecas_crown"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 7
+        },
+        "model": "pure:hat/smiley_face"
       }
     ]
 }
