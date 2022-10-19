@@ -57,6 +57,12 @@
           "custom_model_data": 9
         },
         "model": "pure:hat/duck_headband"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10
+        },
+        "model": "pure:hat/fluffy_headphones"
       }
     ]
 }
