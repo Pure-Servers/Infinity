@@ -63,6 +63,12 @@
           "custom_model_data": 10
         },
         "model": "pure:hat/fluffy_headphones"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 11
+        },
+        "model": "pure:hat/ribbon"
       }
     ]
 }
