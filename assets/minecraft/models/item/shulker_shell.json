@@ -51,6 +51,12 @@
           "custom_model_data": 8
         },
         "model": "pure:hat/noob_mask"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 9
+        },
+        "model": "pure:hat/duck_headband"
       }
     ]
 }
