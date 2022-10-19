@@ -45,6 +45,12 @@
           "custom_model_data": 7
         },
         "model": "pure:hat/smiley_face"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8
+        },
+        "model": "pure:hat/noob_mask"
       }
     ]
 }
