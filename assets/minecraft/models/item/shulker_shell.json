@@ -68,11 +68,17 @@
         "predicate": {
           "custom_model_data": 11
         },
-        "model": "pure:hat/ribbon"
+        "model": "pure:hat/witch_hat"
       },
       {
         "predicate": {
           "custom_model_data": 12
+        },
+        "model": "pure:hat/ribbon"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 13
         },
         "model": "pure:hat/bat_headband"
       }
