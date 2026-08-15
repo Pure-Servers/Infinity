@@ -4,18 +4,8 @@
     "textures":
     {
         "particle": "block/dragon_egg",
-        "all": "block/dragon_egg"
+        "all": "infinity:block/plastic_dragon_egg"
     },
-    "overrides":
-    [
-        {
-            "predicate":
-            {
-                "custom_model_data": 1
-            },
-            "model": "infinity:item/plastic_dragon_egg"
-        }
-    ],
     "elements":
     [
         {

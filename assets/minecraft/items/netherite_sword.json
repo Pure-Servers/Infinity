@@ -1,0 +1,64 @@
+{
+    "model":
+    {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "entries":
+        [
+            {
+                "threshold": 1,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:skin/sword/deep_dark_scythe"
+                }
+            },
+            {
+                "threshold": 2,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:skin/sword/ice_sword"
+                }
+            },
+            {
+                "threshold": 3,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:skin/sword/rose_sword"
+                }
+            },
+            {
+                "threshold": 4,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:skin/sword/ghost_sword"
+                }
+            },
+            {
+                "threshold": 5,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:skin/sword/star_sword"
+                }
+            },
+            {
+                "threshold": 6,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:skin/sword/demons_sword"
+                }
+            }
+        ],
+        "fallback":
+        {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_sword"
+        }
+    }
+}

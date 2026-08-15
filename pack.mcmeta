@@ -1,6 +1,8 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": "Pure Server Resources"
-  }
+    "pack":
+    {
+        "description": "Pure Server Resources",
+        "min_format": [75, 0],
+        "max_format": [75, 0]
+    }
 }

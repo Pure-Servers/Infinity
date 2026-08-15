@@ -1,0 +1,176 @@
+{
+    "model":
+    {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "entries":
+        [
+            {
+                "threshold": 1,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:ui/arrow_left"
+                }
+            },
+            {
+                "threshold": 2,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:ui/arrow_right"
+                }
+            },
+            {
+                "threshold": 3,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:hat/aura_hat"
+                }
+            },
+            {
+                "threshold": 4,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:hat/tecas_crown"
+                }
+            },
+            {
+                "threshold": 5,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:hat/smiley_face"
+                }
+            },
+            {
+                "threshold": 6,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:hat/noob_mask"
+                }
+            },
+            {
+                "threshold": 7,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:hat/duck_headband"
+                }
+            },
+            {
+                "threshold": 8,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:hat/fluffy_headphones"
+                }
+            },
+            {
+                "threshold": 9,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:hat/witch_hat"
+                }
+            },
+            {
+                "threshold": 10,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:hat/ribbon"
+                }
+            },
+            {
+                "threshold": 11,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:hat/bat_headband"
+                }
+            },
+            {
+                "threshold": 12,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:hat/clown_kit"
+                }
+            },
+            {
+                "threshold": 13,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:ui/accept"
+                }
+            },
+            {
+                "threshold": 14,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:ui/decline"
+                }
+            },
+            {
+                "threshold": 15,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:ui/switch_on"
+                }
+            },
+            {
+                "threshold": 16,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:ui/switch_off"
+                }
+            },
+            {
+                "threshold": 17,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:item/item/cash"
+                }
+            },
+            {
+                "threshold": 18,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:item/badge/beta3"
+                }
+            },
+            {
+                "threshold": 19,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:item/badge/dragonslayer2022"
+                }
+            },
+            {
+                "threshold": 20,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:item/badge/1year"
+                }
+            }
+        ],
+        "fallback":
+        {
+            "type": "minecraft:model",
+            "model": "minecraft:item/shulker_shell"
+        }
+    }
+}

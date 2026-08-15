@@ -1,14 +1,17 @@
 {
     "parent": "block/dragon_egg",
-    "textures": {
-      "layer0": "block/dragon_egg"
+    "textures":
+    {
+        "layer0": "block/dragon_egg"
     },
-    "overrides": [
-      {
-        "predicate": {
-          "custom_model_data": 1
-        },
-        "model": "pure:block/plastic_dragon_egg"
-      }
+    "overrides":
+    [
+        {
+            "predicate":
+            {
+                "custom_model_data": 1
+            },
+            "model": "infinity:block/plastic_dragon_egg"
+        }
     ]
 }
