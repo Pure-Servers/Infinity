@@ -165,6 +165,14 @@
                     "type": "minecraft:model",
                     "model": "infinity:badge/year1"
                 }
+            },
+            {
+                "threshold": 21,
+                "model":
+                {
+                    "type": "minecraft:model",
+                    "model": "infinity:item/skin_ticket"
+                }
             }
         ],
         "fallback":
