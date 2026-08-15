@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "pure:item/ui/switch_on"
-  }
+    "parent": "minecraft:item/generated",
+    "textures":
+    {
+        "layer0": "infinity:item/ui/switch_on"
+    }
 }

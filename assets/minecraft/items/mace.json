@@ -11,7 +11,7 @@
                 "model":
                 {
                     "type": "minecraft:model",
-                    "model": "infinity:item/staffs/dragons_staff"
+                    "model": "infinity:skin/mace/dragons_staff"
                 }
             },
             {
@@ -19,7 +19,7 @@
                 "model":
                 {
                     "type": "minecraft:model",
-                    "model": "infinity:item/staffs/withers_staff"
+                    "model": "infinity:skin/mace/withers_staff"
                 }
             }
         ],

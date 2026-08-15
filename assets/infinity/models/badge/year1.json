@@ -2,6 +2,6 @@
     "parent": "minecraft:item/generated",
     "textures":
     {
-        "layer0": "infinity:item/badge/year1_trophy"
+        "layer0": "infinity:item/badge/year1"
     }
 }

@@ -139,7 +139,7 @@
                 "model":
                 {
                     "type": "minecraft:model",
-                    "model": "infinity:item/item/cash"
+                    "model": "infinity:item/cash"
                 }
             },
             {
@@ -147,7 +147,7 @@
                 "model":
                 {
                     "type": "minecraft:model",
-                    "model": "infinity:item/badge/beta3"
+                    "model": "infinity:badge/beta3"
                 }
             },
             {
@@ -155,7 +155,7 @@
                 "model":
                 {
                     "type": "minecraft:model",
-                    "model": "infinity:item/badge/dragonslayer2022"
+                    "model": "infinity:badge/dragonslayer2022"
                 }
             },
             {
@@ -163,7 +163,7 @@
                 "model":
                 {
                     "type": "minecraft:model",
-                    "model": "infinity:item/badge/1year"
+                    "model": "infinity:badge/year1"
                 }
             }
         ],

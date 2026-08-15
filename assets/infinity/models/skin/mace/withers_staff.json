@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "pure:item/staffs/withers_staff"
-  }
+    "parent": "minecraft:item/handheld",
+    "textures":
+    {
+        "layer0": "infinity:item/skin/mace/withers_staff"
+    }
 }
