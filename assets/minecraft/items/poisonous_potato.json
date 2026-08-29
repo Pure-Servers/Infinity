@@ -178,7 +178,7 @@
         "fallback":
         {
             "type": "minecraft:model",
-            "model": "minecraft:item/shulker_shell"
+            "model": "minecraft:item/poisonous_potato"
         }
     }
 }
