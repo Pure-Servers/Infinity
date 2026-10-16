@@ -11,7 +11,7 @@
                 "model":
                 {
                     "type": "minecraft:model",
-                    "model": "infinity:skin/sword/deep_dark_scythe"
+                    "model": "infinity:skin/sword/ice_sword"
                 }
             },
             {
@@ -19,7 +19,7 @@
                 "model":
                 {
                     "type": "minecraft:model",
-                    "model": "infinity:skin/sword/ice_sword"
+                    "model": "infinity:skin/sword/rose_sword"
                 }
             },
             {
@@ -27,7 +27,7 @@
                 "model":
                 {
                     "type": "minecraft:model",
-                    "model": "infinity:skin/sword/rose_sword"
+                    "model": "infinity:skin/sword/ghost_sword"
                 }
             },
             {
@@ -35,19 +35,11 @@
                 "model":
                 {
                     "type": "minecraft:model",
-                    "model": "infinity:skin/sword/ghost_sword"
-                }
-            },
-            {
-                "threshold": 5,
-                "model":
-                {
-                    "type": "minecraft:model",
                     "model": "infinity:skin/sword/star_sword"
                 }
             },
             {
-                "threshold": 6,
+                "threshold": 5,
                 "model":
                 {
                     "type": "minecraft:model",
